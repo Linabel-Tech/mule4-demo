@@ -1,6 +1,6 @@
 # mule4-deployment-demo
-PoC for deploying MuleSoft applications via Mule Maven Plugin
-This is repo is currently a work in progress
+PoC for deploying MuleSoft applications via Mule Maven Plugin.
+###### This is repo is currently a work in progress
 
 ## What is a Mule Maven Plugin?
 * allows you to deploy/undeploy a MuleSoft application. It works with the Enterprise Mule Runtime engine and Community Mule Kernel.

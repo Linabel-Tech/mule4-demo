@@ -1,12 +1,12 @@
 ### Prerequisite
 
-- [ ] Open Mulesoft Cloudhub account
+- [ ] Open [Mulesoft Cloudhub account] (https://anypoint.mulesoft.com/login/signup)
 
-- [ ] Download Maven
+- [ ] Download [Maven] (http://maven.apache.org/download.cgi?Preferred=ftp://ftp.osuosl.org/pub/apache/)
 
-- [ ] Install Maven using a Mac (linked to another page)
+- [ ] Install [Maven using a Mac] (https://github.com/Linabel-Tech/mule4-demo/blob/master/deploy-app-cloudhub/install-mvn-mac.md)
 
-- [ ] Download Anypoint Studio
+- [ ] Download [Anypoint Studio] (https://www.mulesoft.com/platform/studio)
 
 
 ### Deploy Mulesoft Application to Cloudhub Using Mule Maven Plugin

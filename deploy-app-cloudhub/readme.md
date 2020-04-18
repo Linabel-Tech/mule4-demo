@@ -80,7 +80,7 @@ Output:
 
 ### Troubleshooting solutions:
 
-**Make sure you don’t have any typos in the pom.xml file.**
+Make sure you don’t have any **typos** in the pom.xml file.
 
 **Error:** “The default workspace … is in use or cannot be created. Please choose a different one”.
 **Solution:**
